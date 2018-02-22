@@ -1,6 +1,6 @@
 ! Title: Mason Filter
 ! Author: Mason
-! Version: 1.0
+! Version: 2
 ! Expires: 1 days
 ! License: GNU GPL v3
 ! Homepage: https://github.com/smasongarrison/Mason_Filter
