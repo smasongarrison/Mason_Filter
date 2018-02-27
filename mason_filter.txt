@@ -1,12 +1,12 @@
-! Title: Mason Filter
-! Author: Mason
-! Version: 5
-! Expires: 1 days
-! License: GNU GPL v3
-! Homepage: https://github.com/smasongarrison/Mason_Filter
-! Support: https://github.com/smasongarrison/Mason_Filter/issues
-! RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-! RegExpVisualizer http://www.regexper.com/
+!1 Title: Mason Filter
+!2 Author: Mason
+!3 Version: 6
+!4 Expires: 1 days
+!5 License: GNU GPL v3
+!6 Homepage: https://github.com/smasongarrison/Mason_Filter
+!7 Support: https://github.com/smasongarrison/Mason_Filter/issues
+!8 RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
+!9 RegExpVisualizer http://www.regexper.com/
 ###adblockBanner
 ###adbuddy-no-adb-container
 ###adbuddy-overlay
@@ -1915,6 +1915,8 @@ themarker.com,nachrichten.at##script:inject(abort-on-property-read.js, adblockDe
 theplace2.ru#@#.adsbygoogle
 thesporttv.eu,sporttvhdmi.com##[id^="ad_tlvmedia-"]
 thevideo.me##.notification-adblock
+theweek.com###\37 57630 > .sp-inside-article > .sp-slug
+theweek.com##.hideonmobile.right-recirc
 titlovi.com#@#.pub_300x250
 titlovi.com#@#.pub_300x250m
 titlovi.com#@#.pub_728x90
@@ -2100,10 +2102,14 @@ wpworld.pl,windowsowo.pl#@##adBanner
 wurst-client.tk#@#.adsbygoogle
 www.androidiani.com##DIV[id="cboxOverlay"]
 www.androidiani.com##DIV[id="colorbox"]
+www.apnews.com###header
+www.apnews.com##.leftRail.sideRail
 www.bloomberg.com##.current.transporter-item > article > .content-well > .right-rail > .sticky-container
 www.flymedi.com###\39 xDnO
 www.insidermonkey.com##.clearfix.custom-chart-widget
 www.insidermonkey.com##.last.sidebar-column
+www.thedailybeast.com##.ArticleSidebarWrapper:nth-of-type(1) > .Article > .Article__content > .ArticleBody > .Body > .Mobiledoc > .RelatedArticles > .RelatedArticles__articles
+www.thedailybeast.com##.Sidebar--with-extra-ads.Sidebar
 www.washingtonpost.com##.full-size.promo-wrapper
 www.washingtonpost.com##.interstitial-link
 xboxforum.pl##.noticeContainer:not(.hidden)
