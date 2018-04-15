@@ -1,0 +1,166 @@
+!1 Title: Mason Filter 2
+!2 Author: Mason
+!3 Version: 9
+!4 Expires: 1 days
+!5 License: GNU GPL v3
+!6 Homepage: https://github.com/smasongarrison/Mason_Filter
+!7 Support: https://github.com/smasongarrison/Mason_Filter/issues
+!8 RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
+!9 RegExpVisualizer http://www.regexper.com/
+dictionary.com##.survey
+digitalcitizen.life###dont-block-our-ads-popup
+digitalcitizen.life##.TopAdBanner
+downloadnow.net##.results-premium.results-premium__top.holder-padding
+downloadsharedfilez.com##A[href^="http://epnredirect.ru/redirect/cpa/"]
+fontsquirrel.com###bottom_banner_ad_container
+groupon.com###in-app-messages
+hulu.com###banner-ad-container
+hulu.com##.ad-choices
+imgur.com##.footerlink-report-ads
+mayoclinic.org##.mayoad
+medpagetoday.com###register-dialog
+medpagetoday.com##.in.fade.modal-backdrop
+nationaldebtclocks.com##.a2a_vertical_style.a2a_floating_style.a2a_kit_size_32.a2a_kit
+nationalpriorities.org###signup-modal
+nationalpriorities.org##.reveal-modal-bg
+nbc.com##.video-player__overlay.video-player__overlay--mute
+nbc.com##.video-player__overlay.video-player__overlay--pause
+nbc.com##script:inject(abort-on-property-read.js, mps._ab)
+netviagens.com###nvAdForm
+news.au.com##.tabbed
+newyorker.com##.ad-container
+newyorker.com##iframe[src*="/wp-content/assets/"]
+next-episode.net###rundown
+nymag.com##.related-stories:nth-of-type(*)
+nypost.com##.alignleft.wp-caption.in-line-column
+nypost.com##.right-column.sidebar
+nytimes.com###d-promo-realestate
+nytimes.com###newsletter-module
+nytimes.com###recommendations
+nytimes.com###related-coverage
+nytimes.com###ribbon > .robots-nocontent.nocontent
+nytimes.com###sharetools
+nytimes.com###signup-favor
+nytimes.com###supplemental-
+nytimes.com###supplemental-1 > .supplemental-items:nth-of-type(2)
+nytimes.com##.comments-button
+nytimes.com##.comments-link
+nytimes.com##.css-5wt1bj
+nytimes.com##.Dock-dock--
+nytimes.com##.e1uwo0ec1.css-pbg2l9
+nytimes.com##.Editions-editionMenu--1K9zs
+nytimes.com##.InlineMessage-inline--2ysnq
+nytimes.com##.InlineMessage-toneNews--
+nytimes.com##.layout-large-horizontal.embedded.youtube.video.media
+nytimes.com##.masthead-menu > .video
+nytimes.com##.mtr-growl-container
+nytimes.com##.not-signedin
+nytimes.com##.nythp-smarter-living-formonly-email-promo
+nytimes.com##.promo-list
+nytimes.com##.real-estate
+nytimes.com##.Ribbon-withDock--22MdQ.Ribbon-ribbon--3jG7Y
+nytimes.com##.robots-nocontent.nocontent.marginalia-item.related-combined-coverage-marginalia.marginalia
+nytimes.com##.robots-nocontent.nocontent.trending-module.module > .robots-nocontent.nocontent
+nytimes.com##.SectionBarShare-bottom--3ONdV.SectionBarShare-shareMenu--2ndEi
+nytimes.com##.selected-comment-marginalia.comments-marginalia.marginalia
+nytimes.com##.sharetools-menu
+nytimes.com##.story.audio-brief
+nytimes.com##.tab.editions
+nytimes.com##.tips-promo
+nytimes.com##.todays-paper
+nytimes.com##.user-tools
+nytimes.com##.video.media.promo
+pcgamer.com###sidebar
+politico.com###showCommentsButton
+politico.com##.has-drop-cap.story-text > .format-s.pos-beta.story-interrupt
+politico.com##.is-stuck.sticky-content.orient-vertical.user-tools
+politico.com##.promo
+politico.com##.spotlight
+popsci.com###in-content-ad
+popsci.com###pw
+popsci.com##.ad
+softpedia.com##.ad
+slickdeals.net##.announcementBar
+reddit.com###chat
+statista.com##.caRequestPopup
+statista.com##.hideNoscript
+statista.com##.hidePrint
+statista.com##.modal-dialog--caRequest.modal-dialog
+telegraph.co.uk##.adblocker-message
+steamcustomizer.com###sadcat
+steamcustomizer.com##.notice.support-notice
+theguardian.co.uk##.contributions__epic
+theguardian.co.uk##.element-rich-link--upgraded.element--thumbnail.element-rich-link.element
+theguardian.co.uk##.js-adblock-sticky
+theguardian.co.uk##.js-secondary-column.content__secondary-column
+theguardian.co.uk##.site-message--adblock-message
+vanderbilt.edu##.widget-instance-AMAv2_Network_Sidebar_CareerCenter.widget-SelfServeContent
+washingtonian.com##.sidebar.col-md-4
+washingtonmonthly.com##script:inject(overlay-buster.js)
+washingtonpost.com###comments
+washingtonpost.com###comment_link_button_wrapper
+washingtonpost.com###fwtiBp1GJvzPAq
+washingtonpost.com###right-rail
+washingtonpost.com##.full-size.promo-wrapper
+yougov.com##.ng-scope.swipeleft.cookie-confirm
+||online.wsj.com/javascript/abm.js$script
+||coin-have.com^$third-party
+||coin-service.com^$third-party
+||coinblind.com^$third-party
+||coinerra.com^$third-party
+||coinimp.com^$third-party
+||coinnebula.com^$third-party
+||coinpirate.cf^$third-party
+||coinpot.co^$third-party
+||coinrail.io^$third-party
+youtube.com###companion
+youtube.com###masthead-ad
+youtube.com##.ad-interrupting
+youtube.com##.ad-showing
+youtube.com##.ytd-app.style-scope:nth-of-type(1) > .ytd-popup-container.style-scope
+yahoo.com###SidekickWrapper-2
+yahoo.com##.c2s-see-also-table
+yahoo.com##.released.sticky-outer-wrapper > .sticky-inner-wrapper
+washingtonpost.com##.html5.position-rel.game-module.right-rail
+washingtonpost.com##.inline-video.inline-content
+washingtonpost.com##.interstitial-link
+washingtonpost.com##.pb-font-smoothing.pb-mostread-subscribe.pb-subscribe
+washingtonpost.com##.pb-navheader-hidden.ad
+washingtonpost.com##.pb-subscribe-promo.border-bottom-hairline
+washingtonpost.com##.sign-up-buttons
+turkdown.com###duyuru
+turkerhub.com###snowman
+turkernation.com###ad_global_below_navbar
+unroll.me##.block.btn-text.sub-item__meta
+unroll.me##.iyYMRQ.sc-gqjmRU
+unroll.me##.subscriptions__group--share.subscriptions__group.nav
+turkernation.com###notices > ol
+trustedreviews.com###ipc-advert
+trustedreviews.com###keystone-premium
+trustedreviews.com###_evh-button
+trustedreviews.com##.ism-frame:nth-of-type(1)
+theguardian.co.uk##div.site-message:has(a[href^="https://membership.theguardian.com/"])
+thehill.com###dfp-ad
+thehill.com###dfp-ad-mosad_1
+thehill.com###ndn-widget-embed-1
+thehill.com##.ndn_icon_share.ndn_toggleShare
+thehill.com##.ndn_playerOptions
+thehill.com##.odd.first.block-social-share.block
+thehill.com##.show-comments
+thehill.com##.sidebars
+thedailybeast.com##.ArticleSidebarWrapper:nth-of-type(1) > .Article > .Article__content > .ArticleBody > .Body > .Mobiledoc > .RelatedArticles > .RelatedArticles__articles
+thedailybeast.com##.Sidebar--with-extra-ads.Sidebar
+steamgifts.com##.humble_block
+steamgifts.com##.widget-container--margin-top.widget-container
+steamgifts.com##a[href="https://www.patreon.com/steamgifts"]
+reddit.com###sidebar-*tf
+sciencemag.com###daily_news_sign_up
+scientificamerican.com##.is-visible.mobile-context-nav
+reddit.com##.help-hoverable.help.beta-hint
+rawstory.com###metakey-widget
+rawstory.com##.gdl-right-sidebar
+popsci.com##.bottom-wrapper
+popsci.com##.pane-ad
+popsci.com##.pane-taboola.panel-pane
+popsci.com##.stickyMultiAd-processed.basic-sidebar.sidebar-right.sidebar
+popsci.com##.__pw-btnclose

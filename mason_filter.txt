@@ -36,9 +36,7 @@
 ##A[href^="http://www.yourfilezone.com/play?lng="]
 ##A[href^="https://action.metaffiliation.com/trk.php?"]
 ##script:inject(noeval-if.js, Adblock)
-*$script,third-party,domain=linclik.com
-*$script,third-party,domain=ouo.press|ouo.io
-*$third-party,script,domain=themelot.net
+*$script,third-party,domain=linclik.com|ouo.press|ouo.io|themelot.net
 *$xmlhttprequest,domain=thewindowsclub.com
 */assets/js/sourcepoint/*$script,domain=nba.com
 */magnific-popup.js/*$domain=transparentcalifornia.com
@@ -303,9 +301,7 @@ descargatelocorp.com##div[class*="cool_ramka"]
 descargatelocorp.com##div[id^="informer"]:style(display: block !important; opacity: 1 !important; max-height: none !important;)
 deviantart.com###block-notice
 diariodenavarra.es###abMsgWrap
-dictionary.com##.survey
-digitalcitizen.life###dont-block-our-ads-popup
-digitalcitizen.life##.TopAdBanner
+
 digitalinformationworld.com##script:inject(abort-on-property-read.js, adsbygoogle)
 dinozap.com,dinozap.info,dinostream.pw,playerapp1.pw,playerhd1.pw,playerhd2.pw,ponlatv.com,teledeporteonline.pw,verdirectotv.com###divPanel
 dinozap.com,dinozap.info,dinostream.pw,playerapp1.pw,playerhd1.pw,playerhd2.pw,ponlatv.com,teledeporteonline.pw,verdirectotv.com##[id^="total"]
@@ -315,8 +311,7 @@ dlneko.org##.DialogMask
 dlneko.org##.xDialog
 dogecatch.website,dashcatch.xyz###fuck-adb-not-enabled
 doublemesh.com##script:inject(setTimeout-defuser.js, ads)
-downloadnow.net##.results-premium.results-premium__top.holder-padding
-downloadsharedfilez.com##A[href^="http://epnredirect.ru/redirect/cpa/"]
+
 dragcave.net##._w_4
 dziennikwschodni.pl##.adholder
 easyvideo.me##div[style^="width:"]
@@ -377,7 +372,7 @@ flightradar24.com##.noads
 flymedi.com###\39 xDnO
 flymer.ru##.ad-unit
 foerderland.de##.pub_300x250m
-fontsquirrel.com###bottom_banner_ad_container
+
 foot.tous-sports.tv##IMG[src="http://foot.tous-sports.tv/images/blanccloses.png"]
 footdirect24.com###hid
 forum.gamespowerita.com###ad_block
@@ -452,7 +447,7 @@ gratisprogramas.co,gratisjuegos.co,gratispeliculas.xyz##input[id^="contar"]
 grazia-magazin.de##.subNaviNotification:has-text(Adblocker)
 greenocktelegraph.co.uk##.dfp-top-ad-container
 grifthost.com##.ad468
-groupon.com###in-app-messages
+
 gry.pl##.adblock
 gtaxscripting.blogspot.com###AdSense2
 gwshare.com###adCol
@@ -475,8 +470,7 @@ hireteen.com###adb-enabled
 homebank.free.fr###disablemessage
 hornmatters.com##.footer_ad
 hulkusc.com###bab_popup
-hulu.com###banner-ad-container
-hulu.com##.ad-choices
+
 ideaing.com###daily-deal-popup
 ideaing.com##.in.daily-deal-popup.ng-isolate-scope.fade.modal
 ifirstrow.eu###adblockplus
@@ -490,7 +484,7 @@ ilix.in,urlink.at,priva.us##.backk
 imagebam.com###hideifpossible
 imgnova.xyz###boxes
 imgnova.xyz###mask
-imgur.com##.footerlink-report-ads
+
 imleagues.com##script:inject(setTimeout-defuser.js, show_ads.js)
 independent.co.uk##.right-hand-column
 indiatimes.com###append_overlay_photo_ads
@@ -576,9 +570,7 @@ mashable.com,niezalezna.pl##script:inject(noeval-if.js, adblock)
 mathportal.org###noSenseCalculatorTop
 mathportal.org/temp/blocked/blockedCounter.php
 maxedtech.com##.a160x600
-mayoclinic.org##.mayoad
-medpagetoday.com###register-dialog
-medpagetoday.com##.in.fade.modal-backdrop
+
 megafilmeshd.net###ad1
 megafilmeshd.net###ad2
 megafilmeshd.net##[href^="http://click.afiliados.uol.com.br/Clique"]
@@ -620,63 +612,16 @@ naekranie.pl###niceMessage
 naisho.asia##script:inject(abort-on-property-write.js, adBlock)
 nakednepaligirl.com##.rmedia
 nakednepaligirl.com##script:inject(window.open-defuser.js)
-nationaldebtclocks.com##.a2a_vertical_style.a2a_floating_style.a2a_kit_size_32.a2a_kit
-nationalpriorities.org###signup-modal
-nationalpriorities.org##.reveal-modal-bg
-nbc.com##.video-player__overlay.video-player__overlay--mute
-nbc.com##.video-player__overlay.video-player__overlay--pause
-nbc.com##script:inject(abort-on-property-read.js, mps._ab)
+
 needrom.com###ba_banner61
 nerdwallet.com###text-136
 net.hr##.reklama
 net.hr##.reklama1
-netviagens.com###nvAdForm
-news.au.com##.tabbed
-newyorker.com##.ad-container
-newyorker.com##iframe[src*="/wp-content/assets/"]
-next-episode.net###rundown
+
 nontonanime.org##nav.navbar + div.banner > a[href^="https://goo.gl/"]
 notre-planete.info###abp1
 nowwatchtvlive.me##DIV[style="padding-top:5px;float:left;width:100%;font-size:13px;line-height:26px;height:31px;top: 12px;z-index:9999;text-align:left"]
-nymag.com##.related-stories:nth-of-type(*)
-nypost.com##.alignleft.wp-caption.in-line-column
-nypost.com##.right-column.sidebar
-nytimes.com###d-promo-realestate
-nytimes.com###newsletter-module
-nytimes.com###recommendations
-nytimes.com###related-coverage
-nytimes.com###ribbon > .robots-nocontent.nocontent
-nytimes.com###sharetools
-nytimes.com###signup-favor
-nytimes.com###supplemental-
-nytimes.com###supplemental-1 > .supplemental-items:nth-of-type(2)
-nytimes.com##.comments-button
-nytimes.com##.comments-link
-nytimes.com##.css-5wt1bj
-nytimes.com##.Dock-dock--
-nytimes.com##.e1uwo0ec1.css-pbg2l9
-nytimes.com##.Editions-editionMenu--1K9zs
-nytimes.com##.InlineMessage-inline--2ysnq
-nytimes.com##.InlineMessage-toneNews--
-nytimes.com##.layout-large-horizontal.embedded.youtube.video.media
-nytimes.com##.masthead-menu > .video
-nytimes.com##.mtr-growl-container
-nytimes.com##.not-signedin
-nytimes.com##.nythp-smarter-living-formonly-email-promo
-nytimes.com##.promo-list
-nytimes.com##.real-estate
-nytimes.com##.Ribbon-withDock--22MdQ.Ribbon-ribbon--3jG7Y
-nytimes.com##.robots-nocontent.nocontent.marginalia-item.related-combined-coverage-marginalia.marginalia
-nytimes.com##.robots-nocontent.nocontent.trending-module.module > .robots-nocontent.nocontent
-nytimes.com##.SectionBarShare-bottom--3ONdV.SectionBarShare-shareMenu--2ndEi
-nytimes.com##.selected-comment-marginalia.comments-marginalia.marginalia
-nytimes.com##.sharetools-menu
-nytimes.com##.story.audio-brief
-nytimes.com##.tab.editions
-nytimes.com##.tips-promo
-nytimes.com##.todays-paper
-nytimes.com##.user-tools
-nytimes.com##.video.media.promo
+
 ojogo.pt###AdBloquer
 ojogo.pt###moldura_ojogo
 okazje.co###AdBlockDetected
@@ -688,7 +633,7 @@ online.dramacafe.in##BODY > DIV[style^="background-color: rgb(251, 236, 173); po
 onvasortir.com##script:inject(abort-on-property-read.js, adBlockDetected)
 outlook.live.com###owaadbar
 paksociety.com,f-hd.net##.blocked
-pcgamer.com###sidebar
+
 pencurimovie.cc###simplemodal-container
 pencurimovie.cc###simplemodal-overlay
 pencurimovie.cc##.adb_overlay
@@ -719,21 +664,10 @@ plej.tv##.advert_box
 plus-belle-la-vie-replay.blogspot.com###publicite
 plus-belle-la-vie-video.blogspot.com###publicite
 pogdesign.co.uk##.replace
-politico.com###showCommentsButton
-politico.com##.has-drop-cap.story-text > .format-s.pos-beta.story-interrupt
-politico.com##.is-stuck.sticky-content.orient-vertical.user-tools
-politico.com##.promo
-politico.com##.spotlight
+
 popeoftheplayers.eu###html4
 popeoftheplayers.eu###mask1
-popsci.com###in-content-ad
-popsci.com###pw
-popsci.com##.ad
-popsci.com##.bottom-wrapper
-popsci.com##.pane-ad
-popsci.com##.pane-taboola.panel-pane
-popsci.com##.stickyMultiAd-processed.basic-sidebar.sidebar-right.sidebar
-popsci.com##.__pw-btnclose
+
 poringapic.com##IMG[src^="http://poringapic.com/image.php?"]
 porn-blog.me###dbx_light
 pornhub.com##script:inject(abort-on-property-read.js, userABMessage)
@@ -780,17 +714,14 @@ rapidvideo.com##script:inject(abort-on-property-read.js, popns)
 rapidvideo.com##script:inject(noeval.js)
 rarbg.com##A[href^="/w_d_adpub.php?id="]
 rarbgmirror.com,swfchan.net,swfchan.com,zippyshare.com,leech.ae,vizer.tv##script:inject(abort-on-property-read.js, open)
-rawstory.com###metakey-widget
-rawstory.com##.gdl-right-sidebar
+
 readms.com###reader-sky
 readms.com##.message-ld.pull-right
 receive-a-sms.com##script:inject(abort-current-inline-script.js, $, showads.js)
 receivesmsonline.net##script:inject(abort-current-inline-script.js, elms)
 record.xl.pt###BannerINQ
 record.xl.pt##A[href^="http://partner.sbaffiliates.com/"]
-reddit.com###chat
-reddit.com###sidebar-*tf
-reddit.com##.help-hoverable.help.beta-hint
+
 redtube.com##.add-blocker-msg
 referencemega.com###hebdotop_t
 resourcepacks24.de##script:inject(setTimeout-defuser.js, google_jobrunner)
@@ -812,8 +743,7 @@ sankakucomplex.com##script:inject(abort-on-property-read.js, BetterJsPop)
 savetodrive.net##script:inject(setTimeout-defuser.js, ad)
 scan-manga.com###pub_f0
 schwarzwaelder-bote.de###blocker-note
-sciencemag.com###daily_news_sign_up
-scientificamerican.com##.is-visible.mobile-context-nav
+
 scigacz.pl###adv_750
 screenrant.com##.*.ad-zone
 screenrant.com##.sidebar
@@ -846,7 +776,7 @@ sledujserialy.sk##div.w-episode-source > div:has(iframe[src*="ad.php"])
 sledujufilmy.cz##.ads-position
 sledujufilmy.cz##.bottom-advert
 sledujufilmy.cz##.riding-banner
-slickdeals.net##.announcementBar
+
 smashboards.com###noticeMain
 smashboards.com##.premiumContain
 smashingmagazine.com###blocked
@@ -857,7 +787,7 @@ socom.yokohama##DIV[class="drIcxojzIxKe-bg"]
 socom.yokohama##DIV[id="tlhrJGlzhzjO"][class="drIcxojzIxKe"]
 soft98.ir##.shad
 soft98.ir##.shad2
-softpedia.com##.ad
+
 somersetcountygazette.co.uk##.ad-blocker-warning
 spieletipps.de##a[href^="http://www.spieletipps.de/sp/"]
 spieletipps.de##[src^="http://www.spieletipps.de/sp/"]
@@ -876,15 +806,7 @@ squidboards.com##.premiumBlock
 squidboards.com##.premiumContain
 starmusiq.com###adblock-detector-fade-texture
 starmusiq.com###adblock-detector-popup-alert
-statista.com##.caRequestPopup
-statista.com##.hideNoscript
-statista.com##.hidePrint
-statista.com##.modal-dialog--caRequest.modal-dialog
-steamcustomizer.com###sadcat
-steamcustomizer.com##.notice.support-notice
-steamgifts.com##.humble_block
-steamgifts.com##.widget-container--margin-top.widget-container
-steamgifts.com##a[href="https://www.patreon.com/steamgifts"]
+
 stern.de,bento.de,pcgamer.com##script:inject(abort-on-property-read.js, _sp_.mms)
 stol.it###block-message
 stream-happy.com###layer2
@@ -908,29 +830,15 @@ t411.me##.ads
 t411.me##IMG[src="http://www.t411.me/images/external/usenet.jpg"]
 techforever.net##script:inject(setTimeout-defuser.js, canABP)
 tecmundo.com.br##.gallery-ads
-telegraph.co.uk##.adblocker-message
+
 telepolis.pl##DIV[style="width:750px; height:200px; background-color:black; color:white; text-align: center; font: bold 30px Helvetica, Arial, sans-serif;"]
 theargus.co.uk##.adwarn.adblock-warning
 thebitcoinsheep.com##.col-md-6 font[size="5"] > font[color="white"] > font[color="white"][size="3"]
-thedailybeast.com##.ArticleSidebarWrapper:nth-of-type(1) > .Article > .Article__content > .ArticleBody > .Body > .Mobiledoc > .RelatedArticles > .RelatedArticles__articles
-thedailybeast.com##.Sidebar--with-extra-ads.Sidebar
+
 theextopia.com##.adsbanner
 theextopia.com##.adsfoot1
 theextopia.com##.adsfoot2
-theguardian.co.uk##.contributions__epic
-theguardian.co.uk##.element-rich-link--upgraded.element--thumbnail.element-rich-link.element
-theguardian.co.uk##.js-adblock-sticky
-theguardian.co.uk##.js-secondary-column.content__secondary-column
-theguardian.co.uk##.site-message--adblock-message
-theguardian.co.uk##div.site-message:has(a[href^="https://membership.theguardian.com/"])
-thehill.com###dfp-ad
-thehill.com###dfp-ad-mosad_1
-thehill.com###ndn-widget-embed-1
-thehill.com##.ndn_icon_share.ndn_toggleShare
-thehill.com##.ndn_playerOptions
-thehill.com##.odd.first.block-social-share.block
-thehill.com##.show-comments
-thehill.com##.sidebars
+
 themarker.com###ad-block-wrapper
 themarker.com,nachrichten.at##script:inject(abort-on-property-read.js, adblockDetector)
 thesporttv.eu,sporttvhdmi.com##[id^="ad_tlvmedia-"]
@@ -953,10 +861,7 @@ trakt.tv##.huckster-dfp
 transparentcalifornia.com##script:inject(overlay-buster.js)
 tree.tv###adverts
 trovesaurus.com###blocked
-trustedreviews.com###ipc-advert
-trustedreviews.com###keystone-premium
-trustedreviews.com###_evh-button
-trustedreviews.com##.ism-frame:nth-of-type(1)
+
 tsaco.bmj.com##.cookie-message-section.row
 tube8.fr,tube8.es,tube8.com###abAlert
 tube8.fr,tube8.es,tube8.com###adBlockAlertWrap
@@ -968,10 +873,7 @@ turbodebrideur.com###pubdirecte
 turbogenerator.info###anuncio
 turbogenerator.info###blanuncio
 turfomania.fr###adblock-overlay
-turkdown.com###duyuru
-turkerhub.com###snowman
-turkernation.com###ad_global_below_navbar
-turkernation.com###notices > ol
+
 turkleech.com###h237
 tut.by##.pub_300x250m
 tutoriels-android.com##.an-alternative
@@ -999,13 +901,11 @@ u-peak.me,u-stream.me##.videoSF
 ultimate-catch.eu##.special-message-wrapper
 umahdroid.blogspot.com###energysaving
 unfair.co###awesomemessage
-unroll.me##.block.btn-text.sub-item__meta
-unroll.me##.iyYMRQ.sc-gqjmRU
-unroll.me##.subscriptions__group--share.subscriptions__group.nav
+
 uol.com.br##.bannersticky-top:has(div.ads-wrapper)
 uplod.ws##script:inject(abort-on-property-read.js, $.ready)
 usagoals.com###overlay
-vanderbilt.edu##.widget-instance-AMAv2_Network_Sidebar_CareerCenter.widget-SelfServeContent
+
 verdirectotv.com##div[id^="capa"]
 verdirectotv.com##div[id^="closeX"]
 vide-greniers.org##A[class^="replacement_"]
@@ -1030,20 +930,7 @@ vostfr-vf.com##A[href^="http://api.adlure.net/partner/click/"]
 vox.com##.main-social.c-social-buttons
 vox.com##.u-desktop-only:nth-of-type(2)
 warforum.cz###popwrapper
-washingtonian.com##.sidebar.col-md-4
-washingtonmonthly.com##script:inject(overlay-buster.js)
-washingtonpost.com###comments
-washingtonpost.com###comment_link_button_wrapper
-washingtonpost.com###fwtiBp1GJvzPAq
-washingtonpost.com###right-rail
-washingtonpost.com##.full-size.promo-wrapper
-washingtonpost.com##.html5.position-rel.game-module.right-rail
-washingtonpost.com##.inline-video.inline-content
-washingtonpost.com##.interstitial-link
-washingtonpost.com##.pb-font-smoothing.pb-mostread-subscribe.pb-subscribe
-washingtonpost.com##.pb-navheader-hidden.ad
-washingtonpost.com##.pb-subscribe-promo.border-bottom-hairline
-washingtonpost.com##.sign-up-buttons
+
 watchfree.to##script:inject(abort-on-property-read.js, UAParser)
 watson.ch##.adget.frog_block_alert
 wawa-film.org##A[href^="http://api.adlure.net/partner/click/"]
@@ -1069,20 +956,14 @@ xxxdownloadsfree.blogspot.com##DIV[style*="position:fixed;width:100%;top:0px;hei
 yad2.co.il###sLightbox_container
 yad2.co.il###sLightbox_overlay
 yafud.pl###adsense_banner_top
-yahoo.com###SidekickWrapper-2
-yahoo.com##.c2s-see-also-table
-yahoo.com##.released.sticky-outer-wrapper > .sticky-inner-wrapper
+
 yiv.com###LeftAdDiv
 yiv.com###RightAdDiv
 yllix.com##[href^="http://click2.yllix.com/"]
 yocast.tv##.player_div + #video_ads_overdiv + div
-yougov.com##.ng-scope.swipeleft.cookie-confirm
+
 youmoviz.tv##.plugbarremozi
-youtube.com###companion
-youtube.com###masthead-ad
-youtube.com##.ad-interrupting
-youtube.com##.ad-showing
-youtube.com##.ytd-app.style-scope:nth-of-type(1) > .ytd-popup-container.style-scope
+
 z0r.de##.adb
 zeperfs.com##script:inject(noeval-if.js, AdBlock)
 zerozero.pt###ad_block_msg
@@ -1260,15 +1141,7 @@ zuuk.org###fl10
 ||cloudvideoplatform.com/advert.jpg$image,redirect=1x1-transparent.gif,domain=nana10.co.il
 ||clubic.com/assets/js/6f34f4c.js$script
 ||codeclan.altervista.org/wp-content/uploads/*/*/*.mp3$media
-||coin-have.com^$third-party
-||coin-service.com^$third-party
-||coinblind.com^$third-party
-||coinerra.com^$third-party
-||coinimp.com^$third-party
-||coinnebula.com^$third-party
-||coinpirate.cf^$third-party
-||coinpot.co^$third-party
-||coinrail.io^$third-party
+
 ||comfortablecheese.com^
 ||commandwalk.com^
 ||commoncannon.com^
@@ -1589,7 +1462,7 @@ zuuk.org###fl10
 ||ogrid.org^$third-party
 ||okdiario.com/*/check-blocker.js
 ||omniscientspark.com^
-||online.wsj.com/javascript/abm.js$script
+
 ||ooul.tv/contrib/se-aftonbladet/aab/aftonbladet_plugin.js$script,redirect=noopjs,domain=aftonbladet.se
 ||ooul.tv/nocache/se-aftonbladet/aab/aftonbladet_config.js$script,redirect=noopjs,domain=aftonbladet.se
 ||openculture.com/wp-content/uploads/$script
