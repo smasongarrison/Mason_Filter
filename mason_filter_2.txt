@@ -1,6 +1,6 @@
-!1 Title: Mason Filter 2
+!1 Title: Personal Mason Filter
 !2 Author: Mason
-!3 Version: 2
+!3 Version: 3
 !4 Expires: 1 days
 !5 License: GNU GPL v3
 !6 Homepage: https://github.com/smasongarrison/Mason_Filter
@@ -10,17 +10,40 @@
 abovethelaw.com###banner
 abovethelaw.com##.ea-share-count-wrap
 abovethelaw.com##.show-floating-share.ea-floating-share
+academic.oup.com###oupcookiepolicy_message
+amazon.com##.uilm-section.a-spacing-none.a-section > .a-link-normal
+###Ad3TextAd
+###adblock-leaderboard
+###adblockBanner
+###adbuddy-no-adb-container
+###adbuddy-overlay
+###adchecker
+###adchecker_btn
+###ads
+||utils.cedsdigital.it/checkSubscription/checkSubscription.js
+||subscribe.washingtonpost.com/subscriptionapi/acquisition/paywall.html$subdocument
+###like-us-adblock-modal
+###ads_notify
 aol.com###inContent
+apnews.com###header
+apnews.com##.leftRail.sideRail
 camelcamelcamel.com###products_list > .ad
 cnn.com###sponsored-outbrain-1 > .zn__background--content-relative.l-container
 cnn.com##.el__embedded--standard
 cnn.com##a[href^="https://ck.lendingtree.com/"]
+dailymail.co.uk###p-* > .linkro-wocc.link-bogr2
+dailymail.co.uk###p-1426
+dailymail.co.uk##.*.rotator
+dailyuploads.net###adblockinfo
+dailyuploads.net##script:inject(abort-on-property-read.js, adbClick)
+dailyuploads.net##script:inject(abort-on-property-read.js, popns)
 dev.socrata.com###peeper
 dictionary.com##.survey
 digitalcitizen.life###dont-block-our-ads-popup
 digitalcitizen.life##.TopAdBanner
 downloadnow.net##.results-premium.results-premium__top.holder-padding
 downloadsharedfilez.com##A[href^="http://epnredirect.ru/redirect/cpa/"]
+federalpay.org##.alert-dismissible.text-center.alert-danger.small.alert
 fontsquirrel.com###bottom_banner_ad_container
 fortune.com###vjs_video_3_html5_api
 gq.com##.cm-header-desktop__link.cm-header-desktop
@@ -44,6 +67,7 @@ nature.com##.readcube-purchase
 nbc.com##.video-player__overlay.video-player__overlay--mute
 nbc.com##.video-player__overlay.video-player__overlay--pause
 nbc.com##script:inject(abort-on-property-read.js, mps._ab)
+nerdwallet.com###text-136
 netviagens.com###nvAdForm
 news.au.com##.tabbed
 newyorker.com##.ad-container
@@ -90,8 +114,6 @@ nytimes.com##.todays-paper
 nytimes.com##.user-tools
 nytimes.com##.video.media.promo
 okcupid.com###nav_ratings_badge
-proxy.library.vanderbilt.edu##.article-mpu-bottom
-proxy.library.vanderbilt.edu##.pb-ad
 pcgamer.com###sidebar
 politico.com###showCommentsButton
 politico.com##.interrupt-item.global-popular
@@ -109,16 +131,23 @@ popsci.com##.stickyMultiAd-processed.basic-sidebar.sidebar-right.sidebar
 popsci.com##.__pw-btnclose
 programmableweb.com###block-views-right-side-users-block
 programmableweb.com##.adzerk-native-ads
+programminginsider.com##.g1-top:style(display: block !important;)
+programminginsider.com##script:inject(addEventListener-defuser.js, load, ad-blocker)
+proxy.library.vanderbilt.edu##.article-mpu-bottom
+proxy.library.vanderbilt.edu##.pb-ad
+psypost.com##.theiaStickySidebar > ul
+putlocker.com,sockshare.com##INPUT[type="button"][value="Download Now"]
 rawstory.com###metakey-widget
 rawstory.com##.gdl-right-sidebar
 reddit.com###chat
 reddit.com###sidebar-*tf
 reddit.com##.help-hoverable.help.beta-hint
+reuters.com##.RTVSyndicatedPlayer
 sciencemag.com###daily_news_sign_up
 scientificamerican.com##.is-visible.mobile-context-nav
 slickdeals.net###fpNewsAndArticles
 slickdeals.net##.announcementBar
-amazon.com##.uilm-section.a-spacing-none.a-section > .a-link-normal
+smashingmagazine.com###blocked
 softpedia.com##.ad
 statista.com##.caRequestPopup
 statista.com##.hideNoscript
@@ -129,6 +158,7 @@ steamcustomizer.com##.notice.support-notice
 steamgifts.com##.humble_block
 steamgifts.com##.widget-container--margin-top.widget-container
 steamgifts.com##a[href="https://www.patreon.com/steamgifts"]
+suddenlycat.com##.demo_store.woocommerce-store-notice
 telegraph.co.uk##.adblocker-message
 theblast.com##.subnav
 thedailybeast.com##.ArticleSidebarWrapper:nth-of-type(1) > .Article > .Article__content > .ArticleBody > .Body > .Mobiledoc > .RelatedArticles > .RelatedArticles__articles
@@ -151,6 +181,8 @@ trustedreviews.com###ipc-advert
 trustedreviews.com###keystone-premium
 trustedreviews.com###_evh-button
 trustedreviews.com##.ism-frame:nth-of-type(1)
+tsaco.bmj.com##.cookie-message-section.row
+tunein.com##.upsell__sidebarWrapper
 turkdown.com###duyuru
 turkerhub.com###snowman
 turkernation.com###ad_global_below_navbar
@@ -197,3 +229,6 @@ youtube.com##.ytd-app.style-scope:nth-of-type(1) > .ytd-popup-container.style-sc
 ||coinrail.io^$third-party
 ||online.wsj.com/javascript/abm.js$script
 ||static01.nyt.com/images/2018/03/16/us/16xp-kokito-1/merlin_135539355_9b63219e-3d3f-4b9d-9784-cd9b8a8cfe13-thumbStandard.jpg$image
+||turkernation.com/images/*.meter.png$image
+||turkernation.com/images/*animated-snow-image-*.gif$image
+||turkernation.com/images/amazon_homepage_assoc_*x*.png$image
