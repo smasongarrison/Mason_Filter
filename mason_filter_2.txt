@@ -1,17 +1,12 @@
 !1 Title: Personal Mason Filter
 !2 Author: Mason
-!3 Version: 3
+!3 Version: 4
 !4 Expires: 1 days
 !5 License: GNU GPL v3
 !6 Homepage: https://github.com/smasongarrison/Mason_Filter
 !7 Support: https://github.com/smasongarrison/Mason_Filter/issues
 !8 RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
 !9 RegExpVisualizer http://www.regexper.com/
-abovethelaw.com###banner
-abovethelaw.com##.ea-share-count-wrap
-abovethelaw.com##.show-floating-share.ea-floating-share
-academic.oup.com###oupcookiepolicy_message
-amazon.com##.uilm-section.a-spacing-none.a-section > .a-link-normal
 ###Ad3TextAd
 ###adblock-leaderboard
 ###adblockBanner
@@ -20,18 +15,24 @@ amazon.com##.uilm-section.a-spacing-none.a-section > .a-link-normal
 ###adchecker
 ###adchecker_btn
 ###ads
-||utils.cedsdigital.it/checkSubscription/checkSubscription.js
-||subscribe.washingtonpost.com/subscriptionapi/acquisition/paywall.html$subdocument
-###like-us-adblock-modal
 ###ads_notify
+###like-us-adblock-modal
+123stream.io##.alert.ann-home
+123stream.io##.video-sidebar.col-md-4
+abovethelaw.com###banner
+abovethelaw.com##.ea-floating-share
+abovethelaw.com##.ea-share-count-wrap
+academic.oup.com###oupcookiepolicy_message
+amazon.com##.uilm-section.a-spacing-none.a-section > .a-link-normal
 aol.com###inContent
 apnews.com###header
 apnews.com##.leftRail.sideRail
 camelcamelcamel.com###products_list > .ad
 cnn.com###sponsored-outbrain-1 > .zn__background--content-relative.l-container
 cnn.com##.el__embedded--standard
+cnn.com##._0ce70bd8 > ._8963d18b._0830313c > .null._97e48694._80f60788
 cnn.com##a[href^="https://ck.lendingtree.com/"]
-dailymail.co.uk###p-* > .linkro-wocc.link-bogr2
+dailymail.co.uk###.linkro-wocc.link-bogr2
 dailymail.co.uk###p-1426
 dailymail.co.uk##.*.rotator
 dailyuploads.net###adblockinfo
@@ -58,6 +59,10 @@ mayoclinic.org##.mayoad
 medcitynews.com##.show-floating-share.ea-floating-share
 medpagetoday.com###register-dialog
 medpagetoday.com##.in.fade.modal-backdrop
+metacritic.com###-mgsofqv_adi_pchhca
+metacritic.com###-muccuzs_org_wtfoas_\/2608\/ok-ashoqfwhwq\/gsofqv_9
+metacritic.com###leader_bottom
+metacritic.com###master-1
 nationaldebtclocks.com##.a2a_vertical_style.a2a_floating_style.a2a_kit_size_32.a2a_kit
 nationalpriorities.org###signup-modal
 nationalpriorities.org##.reveal-modal-bg
@@ -73,6 +78,7 @@ news.au.com##.tabbed
 newyorker.com##.ad-container
 newyorker.com##iframe[src*="/wp-content/assets/"]
 next-episode.net###rundown
+np.reddit.com##.beta-hint
 nymag.com##.related-stories:nth-of-type(*)
 nypost.com##.alignleft.wp-caption.in-line-column
 nypost.com##.right-column.sidebar
@@ -82,16 +88,23 @@ nytimes.com###recommendations
 nytimes.com###related-coverage
 nytimes.com###sharetools
 nytimes.com###signup-favor
+nytimes.com###story-continues-1
 nytimes.com###supplemental-
 nytimes.com###supplemental-1
 nytimes.com###times-premier-crossword-subscription
 nytimes.com##.comments-button
 nytimes.com##.comments-link
 nytimes.com##.css-5wt1bj
+nytimes.com##.digital-subscriptions
 nytimes.com##.Dock-dock--
+nytimes.com##.e1u7cc251.css-1c4jp46
+nytimes.com##.e1uwo0ec1.css-o2c64h
 nytimes.com##.e1uwo0ec1.css-pbg2l9
 nytimes.com##.Editions-editionMenu--1K9zs
+nytimes.com##.ek9z99y2
 nytimes.com##.eln-email-signup
+nytimes.com##.emamhsk1.css-15v9f0h
+nytimes.com##.Feedback-feedbackBox--2nDx0
 nytimes.com##.InlineMessage-inline--2ysnq
 nytimes.com##.InlineMessage-toneNews--
 nytimes.com##.layout-large-horizontal.embedded.youtube.video.media
@@ -104,8 +117,11 @@ nytimes.com##.real-estate
 nytimes.com##.Ribbon-withDock--22MdQ.Ribbon-ribbon--3jG7Y
 nytimes.com##.robots-nocontent.nocontent
 nytimes.com##.SectionBarShare-bottom--3ONdV.SectionBarShare-shareMenu--2ndEi
+nytimes.com##.SectionBarShare-shareIcon--2Rcfq
+nytimes.com##.SectionBarShare-shareNetworks--2k4ev
 nytimes.com##.selected-comment-marginalia.comments-marginalia.marginalia
 nytimes.com##.sharetools-menu
+nytimes.com##.story-body-text:nth-of-type(3)
 nytimes.com##.story-info
 nytimes.com##.story.audio-brief
 nytimes.com##.tab.editions
@@ -119,6 +135,7 @@ politico.com###showCommentsButton
 politico.com##.interrupt-item.global-popular
 politico.com##.is-stuck.sticky-content.orient-vertical.user-tools
 politico.com##.promo
+politico.com##.sign-up
 politico.com##.spotlight
 politico.com##.story-interrupt
 popsci.com###in-content-ad
@@ -160,6 +177,8 @@ steamgifts.com##.widget-container--margin-top.widget-container
 steamgifts.com##a[href="https://www.patreon.com/steamgifts"]
 suddenlycat.com##.demo_store.woocommerce-store-notice
 telegraph.co.uk##.adblocker-message
+templatemonster.com##.PlasmaPromotion
+templatemonster.com##.PlasmaPromotion__wrapperLink
 theblast.com##.subnav
 thedailybeast.com##.ArticleSidebarWrapper:nth-of-type(1) > .Article > .Article__content > .ArticleBody > .Body > .Mobiledoc > .RelatedArticles > .RelatedArticles__articles
 thedailybeast.com##.Sidebar--with-extra-ads.Sidebar
@@ -172,11 +191,12 @@ theguardian.co.uk##div.site-message:has(a[href^="https://membership.theguardian.
 thehill.com###dfp-ad
 thehill.com###dfp-ad-mosad_1
 thehill.com###ndn-widget-embed-1
+thehill.com##.block-social-share.block
 thehill.com##.ndn_icon_share.ndn_toggleShare
 thehill.com##.ndn_playerOptions
-thehill.com##.odd.first.block-social-share.block
 thehill.com##.show-comments
 thehill.com##.sidebars
+theverge.com##.l-article-body-segment.l-segment.l-sidebar-fixed > .l-col__sidebar
 trustedreviews.com###ipc-advert
 trustedreviews.com###keystone-premium
 trustedreviews.com###_evh-button
@@ -200,13 +220,15 @@ washingtonpost.com###fwtiBp1GJvzPAq
 washingtonpost.com###right-rail
 washingtonpost.com###signup-box-instream
 washingtonpost.com##.full-size.promo-wrapper
-washingtonpost.com##.html5.position-rel.game-module.right-rail
+washingtonpost.com##.game-module
 washingtonpost.com##.inline-video.inline-content
 washingtonpost.com##.interstitial-link
 washingtonpost.com##.pb-font-smoothing.pb-mostread-subscribe.pb-subscribe
 washingtonpost.com##.pb-navheader-hidden.ad
 washingtonpost.com##.pb-subscribe-promo.border-bottom-hairline
 washingtonpost.com##.sign-up-buttons
+wsj.com###right-rail
+wsj.com##.politics-newsletter
 yahoo.com###SidekickWrapper-2
 yahoo.com##.c2s-see-also-table
 yahoo.com##.released.sticky-outer-wrapper > .sticky-inner-wrapper
@@ -216,7 +238,6 @@ youtube.com###links-holder
 youtube.com###masthead-ad
 youtube.com##.ad-interrupting
 youtube.com##.ad-showing
-youtube.com##.ytd-app.style-scope:nth-of-type(1) > .ytd-popup-container.style-scope
 ||apis.google.com/u/0/se/0/_/+1/sharebutton$subdocument
 ||coin-have.com^$third-party
 ||coin-service.com^$third-party
@@ -227,8 +248,16 @@ youtube.com##.ytd-app.style-scope:nth-of-type(1) > .ytd-popup-container.style-sc
 ||coinpirate.cf^$third-party
 ||coinpot.co^$third-party
 ||coinrail.io^$third-party
+||i.ytimg.com/vi/d2_2oCRPrjM/hqdefault.jpg$image
+||i.ytimg.com/vi/EsXRIHhAo5M/hqdefault.jpg$image
+||i.ytimg.com/vi/iIaVdlcDRA0/hqdefault.jpg$image
+||i.ytimg.com/vi/l2t7qNQBthk/hqdefault.jpg$image
+||i.ytimg.com/vi/xCwwxNbtK6Y/hqdefault.jpg$image
+||i.ytimg.com/vi/xLtYmhj-0Kg/hqdefault.jpg$image
 ||online.wsj.com/javascript/abm.js$script
 ||static01.nyt.com/images/2018/03/16/us/16xp-kokito-1/merlin_135539355_9b63219e-3d3f-4b9d-9784-cd9b8a8cfe13-thumbStandard.jpg$image
+||subscribe.washingtonpost.com/subscriptionapi/acquisition/paywall.html$subdocument
 ||turkernation.com/images/*.meter.png$image
 ||turkernation.com/images/*animated-snow-image-*.gif$image
 ||turkernation.com/images/amazon_homepage_assoc_*x*.png$image
+||utils.cedsdigital.it/checkSubscription/checkSubscription.js
