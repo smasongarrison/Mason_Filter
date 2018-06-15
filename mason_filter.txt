@@ -66,28 +66,8 @@
 /js/ec_connectorDelivery.js$script,domain=cpasbien.io
 /js/ouo/entry.js$script,third-party
 /js/ouo/entry_v1.js$script,third-party
-/kill-adblock//js/function.js$script
-/kill-adblock/js/function.js$script
-/noadblock.jpg
-/plugins/adblock-notify-by-bweb/*
-/plugins/anti-block/*
-/plugins/better-stop-adblock/*
-/plugins/ibd-block-adblocker/*$script,stylesheet
-/plugins/main/js/jquery.simplemodal.js$script
-/plugins/no-adblock/*
-/plugins/social-traffic-pop/stp.js$script
-/poptest.js|$popup
-/social-traffic-pop/jquery.stp.js$script
-/tgs.teaser-ad.js
-/wp-content/plugins/*/adblock-detector.min.js$script
-/wp-content/plugins/ad-block-defender/*$script
-/wp-content/plugins/ad-blocking-advisor/*$script,stylesheet
-/wp-content/plugins/anti_ad_blocker/*
-/wp-content/plugins/deadblocker/*$script,stylesheet
-/wp-content/plugins/sorry-adblocker/js/sab.js$script
-/wp-content/themes/rehub/js/adblock_notify.js$script
-/wp-content/uploads/$script,domain=altervista.org
-/wp-content/uploads/an-temp/*$script,stylesheet
+
+
 012.tw##.ad728
 01net.com##.geste
 04stream.com##[id^="adv"]
@@ -195,8 +175,7 @@ bizographics.com
 blockadblock.com,futbolchile.net,freeomovie.com,appdrop.net,skmedix.pl,yalujailbreak.net,cloudwebcopy.com,milaulas.com,tout-bon.com,sznpaste.net,linkdrop.net,themeslide.com##script:inject(bab-defuser.js)
 blockersurvive.com,blockergame.com##.ads > .ads-body > .ads-content > div
 blockersurvive.com,blockergame.com##.ads > .ads-body:style(background: initial !important;)
-blogs.ancestry.com###CM_CTA
-bloomberg.com###adBlockerContainer
+
 bloomberg.com##.current.transporter-item > article > .content-well > .right-rail > .sticky-container
 bluekai.com
 bmw-club.cz##.reklama
@@ -207,7 +186,7 @@ bts.to##.dl_blue[href^="/goto_.php?url="]
 btvsports.com###ai_tapar
 bugsnag.com
 bulletproofserving.com
-buzzfeed.com##.thumbstrip__thumbs--onload-animate
+
 bytzbiorowy.pl###stickymsg
 camelcamelcamel.com###products_list > .ad
 canhasbitcoin.com###adblock-message
@@ -245,7 +224,7 @@ clubedohardware.com.br##.ipsAd
 clubedohardware.com.br##.nexusad
 cnn.com###edzoaachllbilcfuwwmni
 cnn.com##.nrwit
-cnn.com##a[href^="https://ck.lendingtree.com/"]
+
 cnx-software.com##img[src="/pic/support_cnx-software.png"]
 cnx-software.com##img[src="/pic/support_cnxsoft.png"]
 communitech.ca##a[href*="/?aff="]
@@ -254,7 +233,7 @@ comopremium.com.ar###blanuncio
 comopremium.com.ar##IMG[src="templates/plugmod/images/a.png"]
 convertro.com
 coredistrict.com##IMG[src^="http://pixxur.com/pfb/"]
-couponcabin.com###adblocker-reminder
+
 cp-g.net###adblock_layer
 crash-aerien.news##script:inject(abort-on-property-read.js, noPub)
 creativeuncut.com###g_abox
@@ -274,7 +253,7 @@ depositfiles.com##.adblock_alert
 der-postillon.com###steady-adblock-overlay-container
 descargatelocorp.com##div[class*="cool_ramka"]
 descargatelocorp.com##div[id^="informer"]:style(display: block !important; opacity: 1 !important; max-height: none !important;)
-deviantart.com###block-notice
+
 diariodenavarra.es###abMsgWrap
 digitalinformationworld.com##script:inject(abort-on-property-read.js, adsbygoogle)
 dinozap.com,dinozap.info,dinostream.pw,playerapp1.pw,playerhd1.pw,playerhd2.pw,ponlatv.com,teledeporteonline.pw,verdirectotv.com###divPanel
@@ -459,7 +438,7 @@ homebank.free.fr###disablemessage
 hornmatters.com##.footer_ad
 hubspot.com
 hulkusc.com###bab_popup
-ideaing.com###daily-deal-popup
+
 ideaing.com##.in.daily-deal-popup.ng-isolate-scope.fade.modal
 idkyfrsbzesx.com
 ieqprskfariw.com
@@ -478,8 +457,7 @@ imgnova.xyz###mask
 imleagues.com##script:inject(setTimeout-defuser.js, show_ads.js)
 imqkdsdgfygm.com
 imrworldwide.com
-independent.co.uk##.right-hand-column
-indiatimes.com###append_overlay_photo_ads
+
 infoyours.info
 insidermonkey.com##.clearfix.custom-chart-widget
 insidermonkey.com##.last.sidebar-column
