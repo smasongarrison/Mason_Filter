@@ -89,7 +89,7 @@ camelcamelcamel.com###products_list > .ad
 chroniclevitae.com##.search-result.search-result--ad
 cnn.com###sponsored-outbrain-1 > .zn__background--content-relative.l-container
 cnn.com##.el__embedded--standard
-cnn.com##._0ce70bd8 > ._8963d18b._0830313c > .null._97e48694._80f60788
+
 cnn.com##a[href^="https://ck.lendingtree.com/"]
 dailymail.co.uk###.linkro-wocc.link-bogr2
 dailymail.co.uk###p-1426
@@ -167,9 +167,7 @@ nytimes.com##.comments-link
 nytimes.com##.css-5wt1bj
 nytimes.com##.digital-subscriptions
 nytimes.com##.Dock-dock--
-nytimes.com##.e1u7cc251.css-1c4jp46
-nytimes.com##.e1uwo0ec1.css-o2c64h
-nytimes.com##.e1uwo0ec1.css-pbg2l9
+
 nytimes.com##.Editions-editionMenu--1K9zs
 nytimes.com##.ek9z99y2
 nytimes.com##.eln-email-signup
@@ -254,7 +252,6 @@ telegraph.co.uk##.adblocker-message
 templatemonster.com##.PlasmaPromotion
 templatemonster.com##.PlasmaPromotion__wrapperLink
 theblast.com##.subnav
-thedailybeast.com##.ArticleSidebarWrapper:nth-of-type(1) > .Article > .Article__content > .ArticleBody > .Body > .Mobiledoc > .RelatedArticles > .RelatedArticles__articles
 thedailybeast.com##.Sidebar--with-extra-ads.Sidebar
 theguardian.co.uk##.contributions__epic
 theguardian.co.uk##.element-rich-link--upgraded.element--thumbnail.element-rich-link.element
@@ -292,7 +289,6 @@ washingtonian.com##.sidebar.col-md-4
 washingtonmonthly.com##script:inject(overlay-buster.js)
 washingtonpost.com###comments
 washingtonpost.com###comment_link_button_wrapper
-washingtonpost.com###fwtiBp1GJvzPAq
 washingtonpost.com###right-rail
 washingtonpost.com###signup-box-instream
 washingtonpost.com##.full-size.promo-wrapper
@@ -316,7 +312,6 @@ www.buzzfeed.com###mod-now-buzzing-1 > .text-gray.xs-text-left
 www.buzzfeed.com###mod-sidebar-1
 www.cnet.com###lightbox-23d88031-3740-408d-b684-1859a7fe3148-1527314008181
 www.cnet.com##.entered.dock.inviewElement
-www.cnn.com##._0ce70bd8 > ._8963d18b._0830313c > .null._97e48694._80f60788
 www.cnn.com##[href^="http://ck.lendingtree.com/"]
 www.consumerreports.org###rightrail
 www.consumerreports.org##.gnav-subscribe
@@ -325,14 +320,9 @@ www.dailyherald.com###circularhub_module_14244
 www.elephantjournal.com###ejpopupfullwrap
 www.elephantjournal.com###gdpr-container
 www.elephantjournal.com##.sidebar
-www.emedicinehealth.com###-mfwuvhOr_frf
-www.emedicinehealth.com###-morg6-dcg-565
-www.emedicinehealth.com###-mzsthOr_tah
 www.emedicinehealth.com##.trending.featured.content
 www.englishgrammar.org##[src="https://www.englishgrammar.org/images/20off-coupon.png"]
 www.forbes.com##sidenav.trending-expanded
-www.metacritic.com###-mgsofqv_adi_pchhca
-www.metacritic.com###-muccuzs_org_wtfoas_\/2608\/ok-ashoqfwhwq\/gsofqv_9
 www.metacritic.com###leader_bottom
 www.metacritic.com###master-1
 www.momjunction.com###secondary
@@ -340,12 +330,7 @@ www.nbcnews.com##.feedbackContainer___1_oan
 www.nytimes.com###comments-speech-bubble-c-column
 www.nytimes.com###comments-speech-bubble-top
 www.nytimes.com###story-continues-1
-www.nytimes.com##.css-1plijz3
 www.nytimes.com##.css-6n7j50 > .styles-shareMenu--17wGM
-www.nytimes.com##.e1i2wxpm0.css-mlcs8h.shown
-www.nytimes.com##.e1u7cc251.css-1c4jp46
-www.nytimes.com##.e1uwo0ec1.css-1eqbmmx
-www.nytimes.com##.e1uwo0ec1.css-o2c64h
 www.nytimes.com##.Feedback-feedbackBox--2nDx0
 www.nytimes.com##.mtr-growl-container
 www.nytimes.com##.Save-notSavedStory--1mMUg
