@@ -1,23 +1,13 @@
 !01 Title: Merged List
 !02 Author: Mason
-!03 Version: 11
+!03 Version: 13
 !04 Expires: 1 days
 !05 License: GNU GPL v3
 !06 Homepage: https://github.com/smasongarrison/Mason_Filter
 !07 Support: https://github.com/smasongarrison/Mason_Filter/issues
 !08 RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
 !09 RegExpVisualizer http://www.regexper.com/
-!10 sbl-adblock.acl anti-adblock-killer-filters Youtube: Pure Video Experience tracking-filters facebook annoyances blocker Piperun's iplogger filter
 
-!1 Title: Personal Mason Filter
-!2 Author: Mason
-!3 Version: 5
-!4 Expires: 1 days
-!5 License: GNU GPL v3
-!6 Homepage: https://github.com/smasongarrison/Mason_Filter
-!7 Support: https://github.com/smasongarrison/Mason_Filter/issues
-!8 RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
-!9 RegExpVisualizer http://www.regexper.com/
 ###Ad3TextAd
 ###adblock-leaderboard
 ###adblockBanner
