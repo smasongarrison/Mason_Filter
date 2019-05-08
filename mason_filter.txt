@@ -91,7 +91,6 @@ chroniclevitae.com##.search-result.search-result--ad
 cnn.com###sponsored-outbrain-1 > .zn__background--content-relative.l-container
 cnn.com##.el__embedded--standard
 
-cnn.com##a[href^="https://ck.lendingtree.com/"]
 dailymail.co.uk###.linkro-wocc.link-bogr2
 dailymail.co.uk###p-1426
 dailymail.co.uk##.*.rotator
@@ -111,10 +110,8 @@ gq.com##.cm-header-desktop__link.cm-header-desktop
 groupon.com###in-app-messages
 hulu.com###banner-ad-container
 hulu.com##.ad-choices
-ideaing.com###daily-deal-popup
 ideaing.com##.in.daily-deal-popup.ng-isolate-scope.fade.modal
 imgur.com##.footerlink-report-ads
-independent.co.uk##.right-hand-column
 kickasstorrents.to##.tcc_mb
 mashable.com##.sidebar.box-cell
 mayoclinic.org##.mayoad
@@ -125,7 +122,6 @@ metacritic.com###-mgsofqv_adi_pchhca
 metacritic.com###-muccuzs_org_wtfoas_\/2608\/ok-ashoqfwhwq\/gsofqv_9
 metacritic.com###leader_bottom
 metacritic.com###master-1
-mobile.nytimes.com##.emamhsk1.css-15v9f0h
 money.cnn.com##.js-surge-module.module-surge-story.module
 money.cnn.com##section.column:nth-of-type(2)
 money.cnn.com##[href="https://mailchi.mp/cnn/pacific-apple-news-article"]
@@ -324,20 +320,12 @@ www.elephantjournal.com##.sidebar
 www.emedicinehealth.com##.trending.featured.content
 www.englishgrammar.org##[src="https://www.englishgrammar.org/images/20off-coupon.png"]
 www.forbes.com##sidenav.trending-expanded
-www.metacritic.com###leader_bottom
-www.metacritic.com###master-1
 www.momjunction.com###secondary
 www.nbcnews.com##.feedbackContainer___1_oan
 www.nytimes.com###comments-speech-bubble-c-column
 www.nytimes.com###comments-speech-bubble-top
-www.nytimes.com###story-continues-1
 www.nytimes.com##.css-6n7j50 > .styles-shareMenu--17wGM
-www.nytimes.com##.Feedback-feedbackBox--2nDx0
-www.nytimes.com##.mtr-growl-container
 www.nytimes.com##.Save-notSavedStory--1mMUg
-www.nytimes.com##.SectionBarShare-shareIcon--2Rcfq
-www.nytimes.com##.SectionBarShare-shareNetworks--2k4ev
-www.nytimes.com##.story-body-text:nth-of-type(3)
 www.nytimes.com##.styles-bottom--2nD4L
 www.nytimes.com##.styles-circle--337kL.styles-arrow--2SQIA.styles-shareIcon--2jf-j
 www.nytimes.com##div.emamhsk0.css-1bytduc.StoryBodyCompanionColumn:nth-of-type(11) > .emamhsk1.css-14jsv4e
@@ -345,31 +333,24 @@ www.nytimes.com##div.emamhsk0.css-1bytduc.StoryBodyCompanionColumn:nth-of-type(7
 www.nytimes.com##div.StoryBodyCompanionColumn.css-18sbwfn:nth-of-type(15) > .css-14jsv4e
 www.nytimes.com##[href^="https://twitter.com/intent/tweet"]
 www.nytimes.com##[href^="mailto:"]
-www.steamgifts.com##a[href="https://www.patreon.com/steamgifts"]
-www.templatemonster.com##.PlasmaPromotion
-www.templatemonster.com##.PlasmaPromotion__wrapperLink
 www.thedailybeast.com##.ArticleRail__share-icons
 www.thedailybeast.com##.RelatedArticles__heading
 www.theguardian.com##.element-rich-link--upgraded.element--thumbnail.element-rich-link--tag.element-rich-link.element > .rich-link--pillar-news.tone-news--item.rich-link > .rich-link__container > .u-faux-block-link__overlay.rich-link__link
 www.theroot.com##.branded-item.js_inset.inset--story
 www.theroot.com##.sidebar
-theverge.com##.l-article-body-segment.l-segment.l-sidebar-fixed > .l-col__sidebar
 www.vanityfair.com##.cm-failsafe.component-consumer-marketing-failsafe
 www.vanityfair.com##.internal-recirc__items
 www.vanityfair.com##.mvt-variant
 www.vanityfair.com##.paywall-container
 www.washingtonpost.com###post-recommends
 www.washingtonpost.com##.adblocker-root
-www.washingtonpost.com##.game-module
 www.washingtonpost.com##.notifications-container
 www.washingtonpost.com##.topper-share-links
 www.wired.com##.cm-subscribe-link-wrapper
 www.wired.com##.desktop-nav-sign-in-component
 www.wired.com##.most-popular-side-bar-component
-www.wsj.com###right-rail
 www.wsj.com##.coral-hidden.coral-toggle
 www.wsj.com##.media-object-video--standard.media-object-video
-www.wsj.com##.politics-newsletter
 www.wsj.com##.style__subscribe_10eYZv7Nrwehps3Vf-Hy-E
 www.wsj.com##.vidThumb
 www.wsj.com##[href^="https://accounts.wsj.com/login"]
