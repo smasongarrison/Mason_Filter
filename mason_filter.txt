@@ -5,7 +5,7 @@
 !05 License: GNU GPL v3
 !06 Homepage: https://github.com/smasongarrison/Mason_Filter
 !07 Support: https://github.com/smasongarrison/Mason_Filter/issues
-!08 RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html
+!08 RedundantRules: https://arestwo.org/famlam/redundantRuleChecker.html ; https://adblockplus.org/redundancy_check
 !09 RegExpVisualizer http://www.regexper.com/
 
 ###Ad3TextAd
