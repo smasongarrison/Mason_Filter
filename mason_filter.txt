@@ -84,6 +84,7 @@ aol.com###inContent
 apnews.com###header
 apnews.com##.leftRail.sideRail
 apnews.com##.rightRail.sideRail
+
 bengalcatclub.com##.q2w3-fixed-widget-container.right.sAs
 bleacherreport.com##.relatedContent.atom
 camelcamelcamel.com###products_list > .ad
@@ -103,16 +104,22 @@ digitalcitizen.life###dont-block-our-ads-popup
 digitalcitizen.life##.TopAdBanner
 downloadnow.net##.results-premium.results-premium__top.holder-padding
 downloadsharedfilez.com##A[href^="http://epnredirect.ru/redirect/cpa/"]
+
 federalpay.org##.alert-dismissible.text-center.alert-danger.small.alert
 fontsquirrel.com###bottom_banner_ad_container
 fortune.com###vjs_video_3_html5_api
+
 gq.com##.cm-header-desktop__link.cm-header-desktop
 groupon.com###in-app-messages
+
 hulu.com###banner-ad-container
 hulu.com##.ad-choices
+
 ideaing.com##.in.daily-deal-popup.ng-isolate-scope.fade.modal
 imgur.com##.footerlink-report-ads
+
 kickasstorrents.to##.tcc_mb
+
 mashable.com##.sidebar.box-cell
 mayoclinic.org##.mayoad
 medcitynews.com##.show-floating-share.ea-floating-share
@@ -126,6 +133,7 @@ money.cnn.com##.js-surge-module.module-surge-story.module
 money.cnn.com##section.column:nth-of-type(2)
 money.cnn.com##[href="https://mailchi.mp/cnn/pacific-apple-news-article"]
 montrealgazette.com##.icon-share
+
 nationaldebtclocks.com##.a2a_vertical_style.a2a_floating_style.a2a_kit_size_32.a2a_kit
 nationalpriorities.org###signup-modal
 nationalpriorities.org##.reveal-modal-bg
@@ -164,7 +172,6 @@ nytimes.com##.comments-link
 nytimes.com##.css-5wt1bj
 nytimes.com##.digital-subscriptions
 nytimes.com##.Dock-dock--
-
 nytimes.com##.Editions-editionMenu--1K9zs
 nytimes.com##.ek9z99y2
 nytimes.com##.eln-email-signup
@@ -194,7 +201,9 @@ nytimes.com##.tips-promo
 nytimes.com##.todays-paper
 nytimes.com##.user-tools
 nytimes.com##.video.media.promo
+
 okcupid.com###nav_ratings_badge
+
 pcgamer.com###sidebar
 people.com###jumpstart_video_1
 people.com###jumpstart_video_1_html5_api
@@ -221,6 +230,7 @@ proxy.library.vanderbilt.edu##.article-mpu-bottom
 proxy.library.vanderbilt.edu##.pb-ad
 psypost.com##.theiaStickySidebar > ul
 putlocker.com,sockshare.com##INPUT[type="button"][value="Download Now"]
+
 rawstory.com###metakey-widget
 rawstory.com##.gdl-right-sidebar
 reddit.com###chat
@@ -245,6 +255,7 @@ steamgifts.com##a[href="https://www.patreon.com/steamgifts"]
 store.steampowered.com###EmbeddedPlayer
 store.steampowered.com###VideoContainerPlaceholder
 suddenlycat.com##.demo_store.woocommerce-store-notice
+
 telegraph.co.uk##.adblocker-message
 templatemonster.com##.PlasmaPromotion
 templatemonster.com##.PlasmaPromotion__wrapperLink
@@ -277,11 +288,14 @@ turkdown.com###duyuru
 turkerhub.com###snowman
 turkernation.com###ad_global_below_navbar
 turkernation.com###notices > ol
+
 unroll.me##.block.btn-text.sub-item__meta
 unroll.me##.feEHtd.sc-gqjmRU
 unroll.me##.iyYMRQ.sc-gqjmRU
 unroll.me##.subscriptions__group--share.subscriptions__group.nav
+
 vanderbilt.edu##.widget-instance-AMAv2_Network_Sidebar_CareerCenter.widget-SelfServeContent
+
 washingtonian.com##.sidebar.col-md-4
 washingtonmonthly.com##script:inject(overlay-buster.js)
 washingtonpost.com###comments
@@ -298,6 +312,7 @@ washingtonpost.com##.pb-subscribe-promo
 washingtonpost.com##.sign-up-buttons
 wsj.com###right-rail
 wsj.com##.politics-newsletter
+
 www.bloomberg.com###paywall-banner
 www.bloomberg.com###player-WS5D1Wp
 www.bloomberg.com##.print-article-button
@@ -366,6 +381,7 @@ youtube.com###masthead-ad
 youtube.com##.ad-interrupting
 youtube.com##.ad-showing
 ||apis.google.com/u/0/se/0/_/+1/sharebutton$subdocument
+||audio-fa.scdn.co/audio/*$media,redirect=noopmp3-0.1s,domain=open.spotify.com
 ||coin-have.com^$third-party
 ||coin-service.com^$third-party
 ||coinblind.com^$third-party
